@@ -50,8 +50,6 @@ src/
         Header.js
         Meme.js
         memesData.js
-        Starwars.js
-        WindoWidth.js
     index.css
     index.js
     reportWebVitals.js
